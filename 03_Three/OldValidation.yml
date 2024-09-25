@@ -1,0 +1,5 @@
+# config/validator/User.yaml
+App\Entity\User:
+  properties:
+    email:
+      - Email: ~
